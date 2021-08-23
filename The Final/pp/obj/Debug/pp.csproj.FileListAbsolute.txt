@@ -1,0 +1,89 @@
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.exe.config
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.Form1.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.exe.config
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\bin\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.add_user.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.Profilecs.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.Main.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.add_worker.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט\pp\pp\obj\Debug\pp.main_wimdow.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\bin\Debug\pp.exe.config
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\bin\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\bin\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.add_user.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.add_worker.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.Main.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.main_wimdow.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.Profilecs.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\pp\pp\obj\Debug\pp.login_form.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_user.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_worker.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.Main.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.login_form.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.main_wimdow.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.Profilecs.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\obj\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe.config
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה\הנדסת תוכנה שנה ב'\פרוייקט גמר\The Final\pp\bin\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe.config
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\bin\Debug\pp.pdb
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_user.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_worker.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.Main.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.login_form.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.main_wimdow.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.Profilecs.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.qustions.resources
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.exe
+C:\Users\גילה מגן\Desktop\פרוייקט גמר\The Final\pp\obj\Debug\pp.pdb
+D:\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe.config
+D:\פרוייקט גמר\The Final\pp\bin\Debug\pp.exe
+D:\פרוייקט גמר\The Final\pp\bin\Debug\pp.pdb
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.csprojAssemblyReference.cache
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_user.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.add_worker.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.Main.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.login_form.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.main_wimdow.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.Profilecs.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.Properties.Resources.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.GenerateResource.cache
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.CoreCompileInputs.cache
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.exe
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.pdb
+D:\פרוייקט גמר\The Final\pp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.csproj.CopyComplete
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.EditInsurance.resources
+D:\פרוייקט גמר\The Final\pp\obj\Debug\pp.questions.resources

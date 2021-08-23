@@ -1,0 +1,10 @@
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\bin\Debug\final_p_.exe.config
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\bin\Debug\final_p_.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\bin\Debug\final_p_.pdb
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.csprojAssemblyReference.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.Form1.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.Properties.Resources.resources
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.csproj.GenerateResource.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.csproj.CoreCompileInputs.cache
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.exe
+C:\Users\גילה מגן\Desktop\הנדסת תוכנה שנה ב'\פרוייקט\הצעת פרוייקט\final_p_\final_p_\obj\Debug\final_p_.pdb
